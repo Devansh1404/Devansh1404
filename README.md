@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **Deep Learning & System Design**
 - 💡 I love to solve problems and explore new technologies
-- 📫 How to reach me: **devansh@example.com**
+- 📫 How to reach me: **devanshshukla1404@gmail.com**
 
 ---
 
