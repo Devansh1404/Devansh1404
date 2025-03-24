@@ -49,7 +49,6 @@
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devansh1404&repo=Wilson-Disease-Detection&theme=dark)](https://github.com/Devansh1404/Wilson-Disease-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devansh1404&repo=LeetCode-Solutions&theme=dark)](https://github.com/Devansh1404/LeetCode-Solutions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devansh1404&repo=LeetCode-Solutions&theme=dark)](https://github.com/Devansh1404/Leetcode)
 
 ---
