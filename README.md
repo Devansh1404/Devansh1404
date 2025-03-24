@@ -49,6 +49,6 @@
 ---
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devansh1404&repo=LeetCode-Solutions&theme=dark)](https://github.com/Devansh1404/Leetcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devansh1404&repo=LeetCode-Solutions&theme=dark)](https://github.com/Devansh1404/LeetCode-Solution)
 
 ---
